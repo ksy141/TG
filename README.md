@@ -1,2 +1,2 @@
 # TG
-triacylglycerol topology
+triacylglycerol and lyso-pi topology
